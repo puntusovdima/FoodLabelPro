@@ -1,4 +1,4 @@
-# [Your Project Name]
+# FoodLabelPro
 
 A brief, one-paragraph description of what your project does. What is its main purpose or feature?
 
