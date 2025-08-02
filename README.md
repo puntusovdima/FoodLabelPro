@@ -41,4 +41,4 @@ After installation, Android's Play Protect will automatically scan the app for s
 
 ## Contact
 
-For support, licensing inquiries, or other questions, please contact us at **[Your Email Address]** or visit our website at **[Link to Your Website]**.
+For support, licensing inquiries, or other questions, please contact us at **[Email Address]** or visit our website at **[Link to Website]**.
