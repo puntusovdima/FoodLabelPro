@@ -33,24 +33,17 @@ For developers or setting up dedicated kiosk devices, you can install and set th
 ./adb shell dpm set-device-owner com.example.firebaselabelapp/.kiosk.KioskDeviceAdminReceiver
 
 
-Features
+# Features
 
-Local, online databases
+1. Local, online databases
+2. Smart import with adding to the same category
+3. Wide range of TSPL printers support (Wi-Fi, Bluetooth, USB)
+4. Built-in utility for testing Wi-Fi connection before printing
+5. 2/3 split main menu for fast navigation
+6. Controls for label size, font, and printing density
+7. Edit mode
+8. Locked mode
 
-Smart import with adding to the same category
-
-Wide range of TSPL printers support (Wi-Fi, Bluetooth, USB)
-
-Built-in utility for testing Wi-Fi connection before printing
-
-2/3 split main menu for fast navigation
-
-Controls for label size, font, and printing density
-
-Edit mode
-
-Locked mode
-
-Contact
+# Contact
 
 For support, licensing inquiries, or other questions, please contact us at support@hakero.com or visit our website at https://hakero.com.
