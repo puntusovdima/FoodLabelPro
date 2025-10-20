@@ -16,6 +16,7 @@ Unauthorized use, reproduction, or distribution of this software is strictly pro
 2.  Install the APK on your Android device. You may need to allow installations from unknown sources.
 
 ./adb install FoodLabelPro.apk
+
 ./adb shell dpm set-device-owner com.example.firebaselabelapp/.kiosk.KioskDeviceAdminReceiver
 
 ## Installation
