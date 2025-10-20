@@ -14,6 +14,7 @@ Unauthorized use, reproduction, or distribution of this software is strictly pro
 ### Android
 1.  Download the latest `.apk` file from the [Releases page](https://github.com/puntusovdima/FoodLabelPro/releases/latest/download/FoodLabelPro.apk).
 2.  Install the APK on your Android device. You may need to allow installations from unknown sources.
+
 ./adb install FoodLabelPro.apk
 ./adb shell dpm set-device-owner com.example.firebaselabelapp/.kiosk.KioskDeviceAdminReceiver
 
