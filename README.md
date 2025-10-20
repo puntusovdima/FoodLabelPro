@@ -1,6 +1,5 @@
 # FoodLabelPro
 
-A brief, one-paragraph description of what your project does. What is its main purpose or feature?
 
 ## Licensing
 
@@ -15,6 +14,8 @@ Unauthorized use, reproduction, or distribution of this software is strictly pro
 ### Android
 1.  Download the latest `.apk` file from the [Releases page](https://github.com/puntusovdima/FoodLabelPro/releases/latest/download/FoodLabelPro.apk).
 2.  Install the APK on your Android device. You may need to allow installations from unknown sources.
+./adb install FoodLabelPro.apk
+./adb shell dpm set-device-owner com.example.firebaselabelapp/.kiosk.KioskDeviceAdminReceiver
 
 ## Installation
 
@@ -24,7 +25,9 @@ Before installing, you may need to go to your device's settings to allow install
 2. Install the APK:
 Open the downloaded .apk file from your device's file manager or notifications to begin the installation.
 
-3. Wait for Play Protect:
+
+
+4. Wait for Play Protect:
 After installation, Android's Play Protect will automatically scan the app for safety. Once the scan is complete, you can open and use the application.
 
 
