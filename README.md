@@ -29,10 +29,6 @@ For developers or setting up dedicated kiosk devices, you can install and set th
 # Install the application
 ./adb install FoodLabelPro.apk
 
-# Set the app as device owner for kiosk mode
-./adb shell dpm set-device-owner com.example.firebaselabelapp/.kiosk.KioskDeviceAdminReceiver
-
-
 # Features
 
 1. Local, online databases
