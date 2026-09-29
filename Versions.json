@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 130,
-  "latest_version_name": "2.0.0",
-  "apk_url": "https://github.com/puntusovdima/FoodLabelPro/releases/download/v2.0.0/TimeTag.apk",
-  "rollout_percentage": 100
+  "latest_version_code": 135,
+  "latest_version_name": "2.0.5",
+  "apk_url": "https://github.com/puntusovdima/FoodLabelPro/releases/download/v2.0.5/TimeTag.apk",
+  "rollout_percentage": 10
 }
